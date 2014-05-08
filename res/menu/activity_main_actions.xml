@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- Search / will display always -->
+  
+    <!-- Location Found -->
+    <item android:id="@+id/action_location_found"
+        
+          android:title="checks"
+          />
+     <item android:id="@+id/find"
+        
+          android:title="Check near"
+          />
+       <item android:id="@+id/tracker"
+        
+          android:title="Start Tracking"
+          />
+    
+    <!-- Refresh -->
+  
+</menu>
